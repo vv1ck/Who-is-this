@@ -12,4 +12,6 @@ The tool is scalable..
 -
 Any suggestion you would like to add, write it in the discussion
 -
-By @JOKER
+By <a href="http://t.me/vv1ck">[<font size="2" face="Courier New" color="#1471eb">@JOKER</font>]</h3>
+-
+See
