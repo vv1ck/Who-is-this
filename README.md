@@ -26,7 +26,7 @@ cd Who-is-this
 
 <!--START_SECTION:waka-->
 ```
-python3 Who-is-this.py
+python3 start.py
 ```
 <!--END_SECTION:waka-->
 
